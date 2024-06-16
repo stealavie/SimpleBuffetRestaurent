@@ -2,14 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the NhaHangBuffet project! This robust system is designed to streamline restaurant buffet management, offering a suite of features to handle menus, reservations, orders, payments, inventory, and reporting.
+Welcome to the NhaHangBuffet project! 
+
+This is a simple management website, developed as a course project, aimed at enhancing understanding of the C# programming language and the .NET Core framework. It delves into the practical application of key design patterns—Repository, Unit of Work, and Dependency Injection—and explores their synergy in creating a maintainable and testable application. The project also demonstrates how to build a functional website with minimal reliance on external frameworks, highlighting the core capabilities of .NET Core.
 
 ## Features
 
 * **Menu Management:** Easily create, update, and categorize buffet items.
-* **Reservations:** Manage customer reservations, including table assignments and special requests.
+* **Reservations:** Manage customer reservations: table assignments.
 * **Order Processing:** Efficiently track customer orders and generate bills.
-* **Payment Integration:** Integrate with various payment gateways for seamless transactions.
+* **Payment Integration:** Integrate with VNPay payment gateways for seamless transactions.
 * **Inventory Tracking:** Monitor ingredient levels and receive alerts for low stock.
 * **Reporting:** Generate detailed reports on sales, revenue, and customer trends.
 * **And more:** Discover additional features as you explore the system!
@@ -27,5 +29,10 @@ Follow these steps to set up NhaHangBuffet on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [invalid URL removed]
-   cd NhaHangBuffet
+   git clone https://github.com/stealavie/SimpleBuffetRestaurent.git
+2. **Configuration:** Follow the instruction in the app.conf and NhaHangBuffetContext.cs
+3. **Database Update:**
+   Open Package Manager Console:  In Visual Studio, go to Tools -> NuGet Package Manager -> Package Manager Console.
+   Run Command: In the Package Manager Console, execute the following command to create the database:
+   ```bash
+   update-database
