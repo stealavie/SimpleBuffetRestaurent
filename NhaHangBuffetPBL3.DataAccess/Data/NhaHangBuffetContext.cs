@@ -36,7 +36,7 @@ public partial class NhaHangBuffetContext : DbContext
     public virtual DbSet<Orders> Orders { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-       => optionsBuilder.UseSqlServer("Data Source=LAVIE;Initial Catalog=NhaHangBuffet;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+       => optionsBuilder.UseSqlServer("Data Source=(Your Database Name);Initial Catalog=NhaHangBuffet;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
