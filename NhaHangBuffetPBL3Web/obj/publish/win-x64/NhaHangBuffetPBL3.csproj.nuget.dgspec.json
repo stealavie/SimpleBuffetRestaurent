@@ -1,0 +1,511 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj": {}
+  },
+  "projects": {
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+        "projectName": "NhaHangBuffetPBL3.DataAccess",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+        "projectName": "NhaHangBuffetPBL3.Models",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+        "projectName": "NhaHangBuffetPBL3.Repository",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj",
+        "projectName": "NhaHangBuffetPBL3.Services",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj",
+        "projectName": "NhaHangBuffetPBL3.Utility",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+        "projectName": "NhaHangBuffetPBL3",
+        "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj"
+              },
+              "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj": {
+                "projectPath": "D:\\ki2_nam2\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Utility\\NhaHangBuffetPBL3.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,267 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NhaHangBuffetPBL3
+build_property.RootNamespace = NhaHangBuffetPBL3
+build_property.ProjectDir = D:\HOC\PBL3\NhaHangBuffetPBL3\NhaHangBuffetPBL3\NhaHangBuffetPBL3Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\HOC\PBL3\NhaHangBuffetPBL3\NhaHangBuffetPBL3\NhaHangBuffetPBL3Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Ib21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodIngredientManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZEluZ3JlZGllbnRNYW5hZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodIngredientManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZEluZ3JlZGllbnRNYW5hZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodIngredientManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZEluZ3JlZGllbnRNYW5hZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodIngredientManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZEluZ3JlZGllbnRNYW5hZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodIngredientManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZEluZ3JlZGllbnRNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZE1hbmFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZE1hbmFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZE1hbmFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZE1hbmFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/FoodManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZE1hbmFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/IngredientManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW5ncmVkaWVudE1hbmFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/IngredientManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW5ncmVkaWVudE1hbmFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/IngredientManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW5ncmVkaWVudE1hbmFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/IngredientManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW5ncmVkaWVudE1hbmFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/IngredientManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW5ncmVkaWVudE1hbmFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/StaffManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhZmZNYW5hZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/StaffManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhZmZNYW5hZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/StaffManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhZmZNYW5hZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/StaffManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhZmZNYW5hZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/StaffManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhZmZNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/TableManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVNYW5hZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/TableManage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVNYW5hZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/TableManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVNYW5hZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/TableManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVNYW5hZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/TableManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXEJvb2tpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Booking/PaymentFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXEJvb2tpbmdcUGF5bWVudEZhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Booking/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXEJvb2tpbmdcUGF5bWVudFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXE1lbnVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFNoYXJlZFxfTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFNoYXJlZFxfTmF2aWdhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/Table/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXFRhYmxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Customers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJzXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/CreateTable/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcQ3JlYXRlVGFibGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/CreateTable/InHoaDon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcQ3JlYXRlVGFibGVcSW5Ib2FEb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/Revenue/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcUmV2ZW51ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sb19641n8n
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Areas/Staff/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhZmZcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-netw10pw0d
+
+[D:/HOC/PBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3/NhaHangBuffetPBL3Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ydtltsyrnk

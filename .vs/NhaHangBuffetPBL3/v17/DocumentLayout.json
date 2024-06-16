@@ -1,0 +1,1814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\nhahangbuffetpbl3.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\nhahangbuffetpbl3.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\controllers\\createtablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\controllers\\createtablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\6c49fb2b828e883c59c85bfe523f192c4eb0ec938c85224aa5177e980e42ab5a\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.services\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|solutionrelative:nhahangbuffetpbl3.services\\vnpay\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.services\\vnpay\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|solutionrelative:nhahangbuffetpbl3.services\\vnpay\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.services\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|solutionrelative:nhahangbuffetpbl3.services\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.services\\vnpay\\vnpaycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF13E1A-1670-4873-B1F5-8657D2ABD5B9}|NhaHangBuffetPBL3.Services\\NhaHangBuffetPBL3.Services.csproj|solutionrelative:nhahangbuffetpbl3.services\\vnpay\\vnpaycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\revenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\revenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\createtable\\inhoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\createtable\\inhoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\createtable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\createtable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.dataaccess\\data\\nhahangbuffetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|solutionrelative:nhahangbuffetpbl3.dataaccess\\data\\nhahangbuffetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\foodmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\foodmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\foodingredientmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\foodingredientmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\booking\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\wwwroot\\bootstrap-restaurant-template.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\wwwroot\\bootstrap-restaurant-template.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositoryorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositoryorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositoryingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositoryingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositoryfoodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositoryfoodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositoryfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositoryfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositorycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositorycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepositorybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepositorybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nginx\\nginx-1.26.1\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\records\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\records\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\customers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\customers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\records\\loginrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\records\\loginrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\ingredientmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\ingredientmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\staffmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\staffmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodingredientmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodingredientmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\ingredientmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\controllers\\tablemanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\controllers\\tablemanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\foodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\foodingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\tablemanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\staffmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\admin\\views\\foodmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\foodingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\foodingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.dataaccess\\nhahangbuffetpbl3.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|solutionrelative:nhahangbuffetpbl3.dataaccess\\nhahangbuffetpbl3.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\nhahangbuffetpbl3.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\nhahangbuffetpbl3.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\areas\\staff\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\areas\\staff\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5626E52C-F668-4E33-BAAE-320E732A650C}|NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj|solutionrelative:nhahangbuffetpbl3.repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\records\\vnpayresponserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\records\\vnpayresponserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\records\\vnpayrequestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\records\\vnpayrequestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.models\\records\\revenuerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CCD14E-F86F-4413-A9A8-14B1F340B21E}|NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj|solutionrelative:nhahangbuffetpbl3.models\\records\\revenuerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3web\\nhahangbuffetpbl3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6979B673-9121-49E0-80D9-9DE4B9FD6DCE}|NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj|solutionrelative:nhahangbuffetpbl3web\\nhahangbuffetpbl3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|d:\\hoc\\pbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3\\nhahangbuffetpbl3.dataaccess\\migrations\\20240613001532_update_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463E9C11-F877-4F38-B61A-D1BC52094CBA}|NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj|solutionrelative:nhahangbuffetpbl3.dataaccess\\migrations\\20240613001532_update_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\appsettings.json",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\appsettings.json",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\appsettings.json",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T11:46:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T13:30:33.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Program.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Program.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Program.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:46:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAtwEMAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:38:19.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAiwKgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:36:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\Repository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\Repository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA8wB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:24.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhaHangBuffetPBL3.Repository.csproj",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\NhaHangBuffetPBL3.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T11:23:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\Utils.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Services\\VNPay\\Utils.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\Utils.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Services\\VNPay\\Utils.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:13:52.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\6c49fb2b828e883c59c85bfe523f192c4eb0ec938c85224aa5177e980e42ab5a\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\6c49fb2b828e883c59c85bfe523f192c4eb0ec938c85224aa5177e980e42ab5a\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml [Read Only]",
+              "ViewState": "AQIAACcAAAAAAAAAAIAwwEEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T03:26:05.072Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAuwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-16T10:13:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTableController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\CreateTableController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\CreateTableController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\CreateTableController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\CreateTableController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:36:25.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-13T03:26:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Services\\VNPay\\VnPayLibrary.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\VnPayLibrary.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Services\\VNPay\\VnPayLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:13:57.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T00:21:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VnPayCompare.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\VnPayCompare.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Services\\VNPay\\VnPayCompare.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\VnPayCompare.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Services\\VNPay\\VnPayCompare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:13:56.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Services\\VNPay\\IVnPayService.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Services\\VNPay\\IVnPayService.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Services\\VNPay\\IVnPayService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:13:41.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\BillRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\BillRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\BillRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\BillRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:24:42.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\OrdersRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\OrdersRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InHoaDon.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\InHoaDon.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\InHoaDon.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\InHoaDon.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\InHoaDon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:15:33.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:21:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:04:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:41:43.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAOEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:37:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\TableController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Controllers\\TableController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:37:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Revenue\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Revenue\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Revenue\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\Revenue\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:53:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\CreateTable\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:52:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhaHangBuffetContext.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\Data\\NhaHangBuffetContext.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.DataAccess\\Data\\NhaHangBuffetContext.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\Data\\NhaHangBuffetContext.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.DataAccess\\Data\\NhaHangBuffetContext.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAmwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:48:05.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:38:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20240613001532_Update_Db.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\Migrations\\20240613001532_Update_Db.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.DataAccess\\Migrations\\20240613001532_Update_Db.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\Migrations\\20240613001532_Update_Db.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.DataAccess\\Migrations\\20240613001532_Update_Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:15:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RevenueController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\RevenueController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\RevenueController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\RevenueController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Controllers\\RevenueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:15:49.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Table\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Table\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Table\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Table\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:31:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FoodIngredientManageController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodIngredientManageController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodIngredientManageController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodIngredientManageController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodIngredientManageController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:45:44.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:35:40.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:06:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FoodManageController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodManageController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodManageController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodManageController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\FoodManageController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAwwFwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:36:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:34:31.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentSuccess.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:42:05.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentFail.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentFail.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Booking\\PaymentFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:42:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T06:17:56.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T06:17:34.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-06-12T06:14:13.555Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRepositoryTable.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryTable.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryTable.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryTable.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:28:00.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRepositoryStaff.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryStaff.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryStaff.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryStaff.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryStaff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap-restaurant-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\wwwroot\\bootstrap-restaurant-template.jpg",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\wwwroot\\bootstrap-restaurant-template.jpg",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\wwwroot\\bootstrap-restaurant-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\wwwroot\\bootstrap-restaurant-template.jpg - Bitmap [800x500, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-12T06:14:48.626Z",
+              "EditorCaption": " - Bitmap [800x500, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TableRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\TableRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\TableRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\TableRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\TableRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:28.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepositoryOrders.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryOrders.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryOrders.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryOrders.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:26.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRepositoryMenu.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryMenu.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryMenu.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryMenu.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:28:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IngredientRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IngredientRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IngredientRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:10.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IRepositoryIngredient.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryIngredient.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryIngredient.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryIngredient.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRepositoryFoodIngredient.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFoodIngredient.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFoodIngredient.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFoodIngredient.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFoodIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:17.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRepositoryFood.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFood.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFood.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFood.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRepositoryCart.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryCart.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryCart.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryCart.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:28:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepositoryBill.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryBill.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryBill.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryBill.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepositoryBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:28:55.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:28:44.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Nginx\\nginx-1.26.1\\html\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Nginx\\nginx-1.26.1\\html\\index.html",
+              "ToolTip": "D:\\Nginx\\nginx-1.26.1\\html\\index.html",
+              "RelativeToolTip": "..\\..\\..\\..\\Nginx\\nginx-1.26.1\\html\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-11T04:16:39.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:31:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:42:37.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Menu.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Menu.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:51:21.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BookingRecord.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\BookingRecord.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Records\\BookingRecord.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\BookingRecord.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Records\\BookingRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:29:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:04:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:05:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_Navigation.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Navigation.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\_Navigation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:05:42.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:05:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Customers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:41:37.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IngredientManageController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\IngredientManageController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\IngredientManageController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\IngredientManageController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\IngredientManageController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:36:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginRecord.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\LoginRecord.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Records\\LoginRecord.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\LoginRecord.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Records\\LoginRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:29:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StaffManageController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\StaffManageController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\StaffManageController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\StaffManageController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\StaffManageController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:37:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodIngredientManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodIngredientManage\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodIngredientManage\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodIngredientManage\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:07:29.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Delete.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:50:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Create.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Create.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:51:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Details.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Details.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Details.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:49:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Edit.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Edit.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:47:59.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TableManageController.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\TableManageController.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\TableManageController.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\TableManageController.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Controllers\\TableManageController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:39:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\IngredientManage\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:38:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Cart.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Cart.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Cart.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:30:15.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:02:18.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Food.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Food.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Food.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:59:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Ingredient.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Ingredient.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:00:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FoodIngredient.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\FoodIngredient.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\FoodIngredient.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\FoodIngredient.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\FoodIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:59:17.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Menu.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Menu.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Menu.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:02:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Orders.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Orders.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Orders.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:41:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Table.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Table.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Table.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:23:54.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Create.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Create.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:23:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Staff.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Staff.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Staff.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:27:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:39:26.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Edit.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Edit.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:13:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Details.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Details.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Details.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:15:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Delete.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:16:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Edit.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Edit.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:18:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Details.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Details.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Details.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:21:22.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Delete.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\TableManage\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:22:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\StaffManage\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:12:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Delete.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Delete.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:04:04.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Index.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Index.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:00:40.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Edit.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Edit.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:17:23.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Details.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Details.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Details.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:16:57.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Create.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Create.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Admin\\Views\\FoodManage\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T06:12:17.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "FoodIngredientRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\FoodIngredientRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\FoodIngredientRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\FoodIngredientRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\FoodIngredientRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\FoodRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\FoodRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\FoodRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\MenuRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\MenuRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\MenuRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:15.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\CartRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\CartRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:32:56.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Bill.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Bill.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Bill.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:30:12.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "NhaHangBuffetPBL3.DataAccess.csproj",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+              "RelativeToolTip": "NhaHangBuffetPBL3.DataAccess\\NhaHangBuffetPBL3.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T13:24:50.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "NhaHangBuffetPBL3.Models.csproj",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\NhaHangBuffetPBL3.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T13:24:48.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:42:47.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\Areas\\Staff\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:38:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "NhaHangBuffetPBL3.csproj",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+              "RelativeToolTip": "NhaHangBuffetPBL3Web\\NhaHangBuffetPBL3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T11:27:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Repository\\StaffRepository.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Repository\\StaffRepository.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Repository\\StaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:33:26.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "VnPayRequestRecord.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\VnPayRequestRecord.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Records\\VnPayRequestRecord.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\VnPayRequestRecord.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Records\\VnPayRequestRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:30:01.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "VnPayResponseRecord.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\VnPayResponseRecord.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Records\\VnPayResponseRecord.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\VnPayResponseRecord.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Records\\VnPayResponseRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:30:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "RevenueRecord.cs",
+              "DocumentMoniker": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\RevenueRecord.cs",
+              "RelativeDocumentMoniker": "NhaHangBuffetPBL3.Models\\Records\\RevenueRecord.cs",
+              "ToolTip": "D:\\HOC\\PBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3\\NhaHangBuffetPBL3.Models\\Records\\RevenueRecord.cs",
+              "RelativeToolTip": "NhaHangBuffetPBL3.Models\\Records\\RevenueRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:29:55.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
