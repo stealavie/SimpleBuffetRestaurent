@@ -31,8 +31,8 @@ Follow these steps to set up NhaHangBuffet on your local machine:
    ```bash
    git clone https://github.com/stealavie/SimpleBuffetRestaurent.git
 2. **Configuration:** Follow the instruction in the app.conf and NhaHangBuffetContext.cs
-3. **Database Update:**
-   *Open Package Manager Console:  In Visual Studio, go to Tools -> NuGet Package Manager -> Package Manager Console.
-   *Run Command: In the Package Manager Console, execute the following command to create the database:
+3. **Database Update:** <space><space>
+   Open Package Manager Console:  In Visual Studio, go to **Tools -> NuGet Package Manager -> Package Manager Console**.
+   Run Command: In the Package Manager Console, execute the following command to create the database:
    ```bash
    update-database
