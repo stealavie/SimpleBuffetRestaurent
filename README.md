@@ -4,6 +4,8 @@ Welcome to the NhaHangBuffet project!
 
 This is a simple management website, developed as a course project, aimed at enhancing understanding of the C# programming language and the .NET Core framework. It delves into the practical application of key design patterns—Repository, Unit of Work, and Dependency Injection—and explores their synergy in creating a maintainable and testable application. The project also demonstrates how to build a functional website with minimal reliance on external frameworks, highlighting the core capabilities of .NET Core.
 
+Enter in the Url "../login/login" to access the login page of staff 
+
 ## Features
 
 * **Menu Management:** Easily create, update, and categorize buffet items.
